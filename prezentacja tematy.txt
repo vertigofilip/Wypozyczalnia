@@ -1,0 +1,37 @@
+Wiadomości ogólne:
+cechy wspólne
+cele
+błędy
+
+
+
+
+Style zarządzania:
+Zwinnie
+Projakościowo
+Kaskadowo
+Produktowo
+Bezpłatnie
+Na miarę
+Na zakończenie
+ekstremalne
+spiralne
+przyrostowy
+SCRUM
+LEAN
+KANBAN
+
+
+
+
+Aspekty zarządzania:
+zakres projektu,
+czas na wykonanie projektu (harmonogram),
+koszty projektu (budżet),
+jakość.
+zarządzanie ryzykiem,
+zarządzanie komunikacją,
+zarządzanie ludźmi,
+zarządzanie kontraktami,
+zarządzanie udziałowcami,
+zarządzanie integralnością.
